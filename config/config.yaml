@@ -1,9 +1,0 @@
-# Base directory for project files
-base_directory: /path/to/your/base/directory
-
-# Executable path for LTspice
-ltspice_executable: /path/to/ltspice/executable
-# Typical executable paths:
-# Windows: C:/Program Files/ADI/LTspice/XVIIx64.exe
-# Windows: C:/Users/YourUsername/AppData/Local/Programs/ADI/LTspice/XVIIx64.exe
-
