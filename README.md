@@ -13,10 +13,7 @@ Automate LTspice simulations from Python, parse results, and explore circuits vi
 - Simple, readable Jupyter notebooks
 
 ## What’s in this repo?
-
-- `scripts/` — small, self-contained examples (run & parse)
 - `notebooks/` — simple, step-by-step demos
-- `ltspice_tools.py` — lightweight helpers around PyLTSpice
 - `examples/` — example `.asc` / netlists for testing
 
 ## Requirements
