@@ -1,4 +1,11 @@
 .venv
+dist/
+build/
+*.egg-info
+.pytest_cache
+.mypy_cache
+.ruff_cache
+
 *.log
 *.net
 *.raw
@@ -8,6 +15,5 @@
 *.xls
 
 __pycache__
-.mypy_cache
 .ipynb_checkpoints
 .vscode
